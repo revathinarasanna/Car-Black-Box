@@ -1,0 +1,1 @@
+ car_black_box.d  car_black_box.p1:  car_black_box.c ds1307.h clcd.h main.h i2c.h external_eeprom.h uart.h mkp.h adc.h
